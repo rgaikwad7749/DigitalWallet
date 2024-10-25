@@ -1,0 +1,14 @@
+E:\.net project\Design Digital Wallet\Design Digital Wallet\bin\Debug\net8.0\Design Digital Wallet.exe
+E:\.net project\Design Digital Wallet\Design Digital Wallet\bin\Debug\net8.0\Design Digital Wallet.deps.json
+E:\.net project\Design Digital Wallet\Design Digital Wallet\bin\Debug\net8.0\Design Digital Wallet.runtimeconfig.json
+E:\.net project\Design Digital Wallet\Design Digital Wallet\bin\Debug\net8.0\Design Digital Wallet.dll
+E:\.net project\Design Digital Wallet\Design Digital Wallet\bin\Debug\net8.0\Design Digital Wallet.pdb
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.AssemblyInfoInputs.cache
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.AssemblyInfo.cs
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.csproj.CoreCompileInputs.cache
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.dll
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\refint\Design Digital Wallet.dll
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.pdb
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\Design Digital Wallet.genruntimeconfig.cache
+E:\.net project\Design Digital Wallet\Design Digital Wallet\obj\Debug\net8.0\ref\Design Digital Wallet.dll
